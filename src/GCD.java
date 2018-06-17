@@ -15,6 +15,5 @@ public class GCD {
     {
         int n = 9;
         int m = 6;
-        System.out.println(GCD(n,m));
-    }
+        System.out.println(GCD(n,m));    }
 }
