@@ -44,7 +44,7 @@ public class GFG
         print(map);
         if (map.containsKey("Shankar"))
         {
-            Integer a = map.get("vishal");
+            Integer a = map.get("Shankar");
             System.out.println("value for key \"vishal\" is:- " + a);
         }
 
